@@ -27,8 +27,9 @@
 <br>
 	 <img align="center" src="https://img.shields.io/badge/Author-s1l3nt78-yellowgreen">
 </p>
-<h>
+<h1>
 # Sifter
+</h>
 <br>
 <p>	
 Sifter is an osint, recon & vulnerability scanner. 
@@ -40,6 +41,7 @@ mapping rapidly using ASM.
 </p>
 <h2>
 More information for sifter can be found <a href="./sifter/README.md">here</a>
+</h>
 <br>
 <br>
 <br>
@@ -58,6 +60,7 @@ More information for sifter can be found <a href="./sifter/README.md">here</a>
 <br>
 <h>
 # TigerShark
+</h>
 <br>
 <p>
 TigerShark is a multi-Tooled Phishing Framework incorporating various different 
@@ -67,5 +70,6 @@ This campaign can be launched against a small group or as a mass campaign.
 </p>
 <h2>
 More information about TigerShark can be found <a href="./TigerShark/README.md">here</a>
+</h>
 <br>
 <br>
