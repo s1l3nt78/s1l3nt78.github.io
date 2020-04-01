@@ -29,7 +29,6 @@
 </p>
 <h2>
 # Sifter
-</h>
 <br>
 <p>	
 Sifter is an osint, recon & vulnerability scanner. 
@@ -59,7 +58,6 @@ More information for sifter can be found <a href="./sifter/README.md">here</a>
 <br>
 <h2>
 # TigerShark
-</h>
 <br>
 <p>
 TigerShark is a multi-Tooled Phishing Framework incorporating various different 
