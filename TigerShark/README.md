@@ -1,16 +1,14 @@
 <p align="center">
- <img src="https://github.com/s1l3nt78/Private/blob/master/Photos/tigershark-Release.png" alt="" />
-</p>
-
-<p align="center">
- <a href="#"><img align="center" src="https://img.shields.io/github/issues/s1l3nt78/TigerShark" /></a> 
- <a href="#"><img align="center" src="https://img.shields.io/github/forks/s1l3nt78/TigerShark" /></a>
- <a href="#"><img align="center" src="https://img.shields.io/github/stars/s1l3nt78/TigerShark" /></a>
+ <img src="https://github.com/s1l3nt78/Private/blob/master/Photos/tigershark-Release.png"></a>
  <br>
- <a href="#"><img align="center" src="https://img.shields.io/badge/Build-Release-orange"/></a>
- <a href="#"><img align="center" src="https://img.shields.io/badge/Version-3-red"/></a>
+ <img align="center" src="https://img.shields.io/github/issues/s1l3nt78/TigerShark"></a> 
+ <img align="center" src="https://img.shields.io/github/forks/s1l3nt78/TigerShark"></a>
+ <img align="center" src="https://img.shields.io/github/stars/s1l3nt78/TigerShark"></a>
  <br>
-  <a href="#"><img align="center" src="https://img.shields.io/badge/Author-s1l3nt78-yellowgreen"</a>
+ <img align="center" src="https://img.shields.io/badge/Build-Release-orange"></a>
+ <img align="center" src="https://img.shields.io/badge/Version-3-red"></a>
+ <br>
+  <img align="center" src="https://img.shields.io/badge/Author-s1l3nt78-yellowgreen"></a>
 </p>
 
 
