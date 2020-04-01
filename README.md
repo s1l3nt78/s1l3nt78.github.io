@@ -42,7 +42,6 @@ mapping rapidly using ASM.
 <br>
 <h>
 More information for sifter can be found <a href="./sifter/README.md">here</a>
-</h>
 <br>
 <br>
 <br>
@@ -70,6 +69,5 @@ This campaign can be launched against a small group or as a mass campaign.
 <br>
 <h>
 More information about TigerShark can be found <a href="./TigerShark/README.md">here</a>
-</h>
 <br>
 <br>
