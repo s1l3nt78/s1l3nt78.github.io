@@ -36,7 +36,6 @@ hosts, scan for the 'blue' vulnerabilities within microsft and if unpatched,
 exploit them. It uses tools like blackwidow and konan for webdir enumeration and attack surface 		
 mapping rapidly using ASM. 
 </p>
-<br>
 <h>
 More information for sifter can be found <a href="./sifter/README.md">here</a>
 </h>
@@ -64,7 +63,6 @@ phishing tools, domain gatherers and mail spammers in order to launch a fully
 customizable phishing page/server in whatever scripting language needed. 
 This campaign can be launched against a small group or as a mass campaign. 
 </p>
-<br>
 <h>
 More information about TigerShark can be found <a href="./TigerShark/README.md">here</a>
 </h>
