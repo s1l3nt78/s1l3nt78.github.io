@@ -27,7 +27,11 @@
 <br>
 	 <img align="center" src="https://img.shields.io/badge/Author-s1l3nt78-yellowgreen">
 </p>
-<h2># Sifter</h>	
+<br>
+<h2>
+# Sifter
+</h>	
+<br>
 <p>	
 Sifter is an osint, recon & vulnerability scanner. 
 It combines a plethara of tools within different module sets in order to quickly 		
@@ -56,7 +60,9 @@ More information for sifter can be found <a href="./sifter/README.md">here</a>
   <img align="center" src="https://img.shields.io/badge/Author-s1l3nt78-yellowgreen">
 </p>
 <br>
-<h2>TigerShark</h>
+<h2>
+# TigerShark
+</h>
 <br>
 <p>
 TigerShark is a multi-Tooled Phishing Framework incorporating various different 
