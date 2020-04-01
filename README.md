@@ -1,6 +1,6 @@
 # s1l3nt78
 <p align="center">
-	<img align="center" src="https://raw.githubusercontent.com/s1l3nt78/s1l3nt78.github.io/master/docs/logo.PNG">
+	<img align="center" src="https://raw.githubusercontent.com/s1l3nt78/s1l3nt78.github.io/master/.vs/logo.PNG">
 </p>
 <br>
 # Current Projects
