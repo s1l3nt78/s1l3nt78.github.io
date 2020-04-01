@@ -3,7 +3,7 @@
 VERSION 3.8-4 HAS AN ISSUE WITH UPDATE FUNCTION SO IT MUST BE RECLONED!!
 
 <p align="center">
-	<img align="center" src="https://raw.githubusercontent.com/s1l3nt78/sifter/master/docs/sifter.PNG">
+	<img align="center" src="https://raw.githubusercontent.com/s1l3nt78/s1l3nt78.github.io/master/sifter/sifter.PNG">
 <br>
   	<img align="center" src="https://img.shields.io/github/issues/s1l3nt78/sifter">
   	<img align="center" src="https://img.shields.io/github/forks/s1l3nt78/sifter">
