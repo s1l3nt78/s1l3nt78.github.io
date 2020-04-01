@@ -58,7 +58,7 @@ More information for sifter can be found <a href="./sifter/README.md">here</a>
   <img align="center" src="https://img.shields.io/badge/Author-s1l3nt78-yellowgreen">
 </p>
 <br>
-<h>
+<h1>
 # TigerShark
 </h>
 <br>
@@ -71,5 +71,4 @@ This campaign can be launched against a small group or as a mass campaign.
 <h2>
 More information about TigerShark can be found <a href="./TigerShark/README.md">here</a>
 </h>
-<br>
-<br>
+
