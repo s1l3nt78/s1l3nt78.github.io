@@ -27,15 +27,19 @@
 <br>
 	 <img align="center" src="https://img.shields.io/badge/Author-s1l3nt78-yellowgreen">
 </p>
-# Sifter
+<h># Sifter</h>	
+<p>	
 	Sifter is an osint, recon & vulnerability scanner. 
 	It combines a plethara of tools within different module sets in order to quickly 		
 	perform recon tasks, check network firewalling, enumerate remote and local 
 	hosts, scan for the 'blue' vulnerabilities within microsft and if unpatched, 
 	exploit them. It uses tools like blackwidow and konan for webdir enumeration and attack surface 		
 	mapping rapidly using ASM. 
+</p>
 <br>
-- More information for sifter can be found <a href="./sifter/README.md">here</a>
+<p>
+	More information for sifter can be found <a href="./sifter/README.md">here</a>
+</p>
 <br>
 <br>
 <br>
@@ -51,12 +55,18 @@
  <br>
   <img align="center" src="https://img.shields.io/badge/Author-s1l3nt78-yellowgreen">
 </p>
-# TigerShark
+<br>
+<h>TigerShark</h>
+<br>
+<p>
 	TigerShark is a multi-Tooled Phishing Framework incorporating various different 
 	phishing tools, domain gatherers and mail spammers in order to launch a fully 
 	customizable phishing page/server in whatever scripting language needed. 
 	This campaign can be launched against a small group or as a mass campaign. 
+</p>
 <br>
-More information about TigerShark can be found <a href="./TigerShark/README.md">here</a>
+<p>
+	More information about TigerShark can be found <a href="./TigerShark/README.md">here</a>
+</p>
 <br>
 <br>
