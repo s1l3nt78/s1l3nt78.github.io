@@ -28,24 +28,33 @@
 	 <img align="center" src="https://img.shields.io/badge/Author-s1l3nt78-yellowgreen">
 </p>
 # Sifter
-	Is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly 		perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the 'blue' vulnerabilities within 	microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface 		mapping rapidly using ASM. More information can be found <a href="./sifter/README.md">here</a>
+	Sifter is an osint, recon & vulnerability scanner. 
+	It combines a plethara of tools within different module sets in order to quickly 		
+	perform recon tasks, check network firewalling, enumerate remote and local hosts, 
+	scan for the 'blue' vulnerabilities within microsft and if unpatched, exploit them.  
+	It uses tools like blackwidow and konan for webdir enumeration and attack surface 		
+	mapping rapidly using ASM. 
+	More information can be found <a href="./sifter/README.md">here</a>
 
 <br>
 <br>
 <p align="center">
- <img src="https://github.com/s1l3nt78/Private/blob/master/Photos/tigershark-Release.png"></a>
+ <img src="https://github.com/s1l3nt78/Private/blob/master/Photos/tigershark-Release.png">
+<br>
+ <img align="center" src="https://img.shields.io/github/issues/s1l3nt78/TigerShark">
+ <img align="center" src="https://img.shields.io/github/forks/s1l3nt78/TigerShark">
+ <img align="center" src="https://img.shields.io/github/stars/s1l3nt78/TigerShark">
  <br>
- <img align="center" src="https://img.shields.io/github/issues/s1l3nt78/TigerShark"></a> 
- <img align="center" src="https://img.shields.io/github/forks/s1l3nt78/TigerShark"></a>
- <img align="center" src="https://img.shields.io/github/stars/s1l3nt78/TigerShark"></a>
+ <img align="center" src="https://img.shields.io/badge/Build-Release-orange">
+ <img align="center" src="https://img.shields.io/badge/Version-3-red">
  <br>
- <img align="center" src="https://img.shields.io/badge/Build-Release-orange"></a>
- <img align="center" src="https://img.shields.io/badge/Version-3-red"></a>
- <br>
-  <img align="center" src="https://img.shields.io/badge/Author-s1l3nt78-yellowgreen"></a>
+  <img align="center" src="https://img.shields.io/badge/Author-s1l3nt78-yellowgreen">
 </p>
 # TigerShark
-	Multi-Tooled Phishing Framework
-	Incorporating various different phishing tools, domain gatherers and mail spammers in order to launch a fully customizable 	phishing page/server in whatever scripting language needed. This campaign can be launched against a small group of targets or a mass campaign. More information can be found <a href="./TigerShark/README.md">here</a>
+	TigerShark is a multi-Tooled Phishing Framework incorporating various different 
+	phishing tools, domain gatherers and mail spammers in order to launch a fully customizable	
+	phishing page/server in whatever scripting language needed. This campaign can be launched 
+	against a small group of targets or a mass campaign. 
+	More information can be found <a href="./TigerShark/README.md">here</a>
 <br>
 <br>
