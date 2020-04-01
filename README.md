@@ -39,7 +39,7 @@
 <br>
 <br>
 <p align="center">
- <img src="https://github.com/s1l3nt78/Private/blob/master/Photos/tigershark-Release.png">
+ <img align="center" src="https://github.com/s1l3nt78/Private/blob/master/Photos/tigershark-Release.PNG">
 <br>
  <img align="center" src="https://img.shields.io/github/issues/s1l3nt78/TigerShark">
  <img align="center" src="https://img.shields.io/github/forks/s1l3nt78/TigerShark">
