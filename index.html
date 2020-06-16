@@ -134,7 +134,7 @@ mapping rapidly using ASM.</strong>
  <br />
  <img align="center" src="https://img.shields.io/badge/Build-Release-orange" />
  <img align="center" src="https://img.shields.io/badge/Version-4-red" />
- <img align="center" src="https://img.shields.io/badge/Revision-1-green" />
+ <img align="center" src="https://img.shields.io/badge/Revision-2-green" />
  <br />
   <img align="center" src="https://img.shields.io/badge/Author-s1l3nt78-blueviolet" />
 </p>
@@ -168,6 +168,7 @@ This campaign can be launched against a small group or as a mass campaign.</stro
  <br />
  <img align="center" src="https://img.shields.io/badge/Codename-JailBoxer-orange" />
  <img align="center" src="https://img.shields.io/badge/Version-2.5-red" />
+	<img align="center" src="https://img.shields.io/badge/Revision-1-green" />
  <br />
   <img align="center" src="https://img.shields.io/badge/Author-s1l3nt78-blueviolet" />
 </p>
@@ -177,19 +178,29 @@ This campaign can be launched against a small group or as a mass campaign.</stro
 </h2>
 	      <br>
 	      <p>
-		      <strong><em>Current Version</strong>: 2.5</em>
+		      <strong><em>Current Version:</strong> 2.5</em>
+		      <br />
+		      <strong><em>Revision:</strong> 1</em>
 		   </p> 
 <br />
 	      <p><strong>MkCheck is used to check MikroTik Routers for: </strong></p>
 <br />
 	<p style="color: #6e943a">-winbox_auth_bypass_creds_disclosure
 <br />
-		-routeros_jailbreak</p>
+		-routeros_jailbreak
+	      <br />
+	      -ByTheWay</p>
 <br />
 <br />	      
-<strong>If routersploit module, confirms the Mikrotik device is vulnerable 
-<br />
-	it parses the credentials into the miko.py script.
+<strong>MkCheck matches IP address to WiFi Access Point Names
+  <br />
+  If routersploit module confirms if the Mikrotik device is vulnerable and if found - displays login credentials
+  <br />
+  Which must be entered into <strong><em>scripts/miko.py</em></strong> for MkCheck's auto search module to correctly work.
+  <br />
+  ByTheWay Root Shell Check The exploit leverages the path traversal vulnerability CVE-2018-14847 to extract the admin password and create  an "option" package 
+  <br />
+  to enable the developer backdoor. Post exploitation the attacker can connect to Telnet or SSH using the root user "devel" with the admin's password.
 <br />
 The main function spawns a quick ssh session on the compromised machine to enumerate the Net AP name from IP
 <br />
